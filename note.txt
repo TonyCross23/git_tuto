@@ -10,3 +10,17 @@ maung2 --> home project ---> about
 git branch ---> master,
 
 client --> red -->  green ---> red
+
+branch main master
+
+deploy --> master --> main
+
+teams 5
+maung 2 --> home
+aung 2 --> about
+
+home 
+git branch
+
+git checkout -b aungkooo/feature/home
+
